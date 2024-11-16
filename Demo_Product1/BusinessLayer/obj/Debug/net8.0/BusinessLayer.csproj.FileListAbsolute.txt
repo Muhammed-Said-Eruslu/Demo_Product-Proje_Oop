@@ -1,0 +1,17 @@
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

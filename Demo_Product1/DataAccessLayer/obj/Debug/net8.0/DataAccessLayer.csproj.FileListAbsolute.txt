@@ -1,0 +1,17 @@
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Said\Desktop\YZL5101-MVC\Demo_Product1\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
